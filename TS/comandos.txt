@@ -1,0 +1,9 @@
+npm init
+
+npm i typescript
+
+npx tsc --init
+
+npx tsc --watch
+
+npm i @types/node
